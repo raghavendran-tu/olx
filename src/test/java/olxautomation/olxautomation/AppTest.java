@@ -39,7 +39,7 @@ public class AppTest {
     		Thread.sleep(1000);
     		driver.findElement(By.xpath("//span[text()='Continue with Phone']")).click();
     		Thread.sleep(1000);
-    		driver.findElement(By.id("phone")).sendKeys("9884834703");
+    		driver.findElement(By.id("phone")).sendKeys("8148587787");
     		Thread.sleep(2000);
     		driver.findElement(By.xpath("//span[text()='Next']")).click();
     		Thread.sleep(2000);
