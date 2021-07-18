@@ -5,7 +5,6 @@
     <classes>
       <class name="olxautomation.olxautomation.AppTest">
         <methods>
-          <include name="chat"/>
           <include name="refreshAds"/>
           <include name="close"/>
           <include name="main"/>
